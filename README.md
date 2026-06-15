@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Placement Prediction API
 
 A Machine Learning + FastAPI project that predicts whether a student will be placed based on academic and skill-related features.
@@ -216,3 +217,6 @@ http://127.0.0.1:8000/docs
 Kishan Rabari
 
 ---
+=======
+# placement-prediction-api
+>>>>>>> a0fd420d40bae765ef1602368785862296fd82ce
