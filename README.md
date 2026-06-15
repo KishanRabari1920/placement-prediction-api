@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Student Placement Prediction API
 
 A Machine Learning + FastAPI project that predicts whether a student will be placed based on academic and skill-related features.
